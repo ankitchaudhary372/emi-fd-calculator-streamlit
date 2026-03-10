@@ -16,7 +16,7 @@ This project demonstrates how Python can be used to build **simple financial too
 
 
 ```
-https://your-app-name.streamlit.app](https://emi-fd-calculator-app-clzmtgxsbrajycsbciriyd.streamlit.app/
+https://emi-fd-calculator-app-clzmtgxsbrajycsbciriyd.streamlit.app/
 ```
 
 ---
