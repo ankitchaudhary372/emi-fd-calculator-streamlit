@@ -11,14 +11,14 @@ This project demonstrates how Python can be used to build **simple financial too
 
 ---
 
-# 🚀 Live App
 
 
 
-```
+
+
 ## 🚀 Live App
 
-🔗[ [[Open the EMI & FD Calculator](https://emi-fd-calculator-app-clzmtgxsbrajycsbciriyd.streamlit.app/)
+🔗 [Open the EMI & FD Calculator](https://emi-fd-calculator-app-clzmtgxsbrajycsbciriyd.streamlit.app/)
 ```
 
 ---
