@@ -16,7 +16,9 @@ This project demonstrates how Python can be used to build **simple financial too
 
 
 ```
-https://emi-fd-calculator-app-clzmtgxsbrajycsbciriyd.streamlit.app/
+## 🚀 Live App
+
+🔗 [Open the EMI & FD Calculator](https://emi-fd-calculator-app-clzmtgxsbrajycscbciriyd.streamlit.app)
 ```
 
 ---
